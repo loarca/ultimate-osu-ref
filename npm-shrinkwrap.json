@@ -9210,9 +9210,9 @@
       }
     },
     "nodesu": {
-      "version": "0.6.7",
-      "resolved": "https://registry.npmjs.org/nodesu/-/nodesu-0.6.7.tgz",
-      "integrity": "sha512-6mWRfFYZmNT+nmTLr1InVCB6zsxpfe3tx42wSOsJAL42p8pBtDTDEwUe5DqnMxnkRbpjCTyCUPNVG7dll69ASg==",
+      "version": "0.7.0",
+      "resolved": "https://registry.npmjs.org/nodesu/-/nodesu-0.7.0.tgz",
+      "integrity": "sha512-eeszgylcvqxqV8kNCwrPLreytpBo4jX3gLVNueCWVdRkD5FpmGIEhx1gIuy+ZImRdBdEUeFMJAR8uxAr6IbaGQ==",
       "requires": {
         "limiter": "^1.1.0"
       }

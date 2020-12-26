@@ -9,13 +9,19 @@
   </el-container>
 </template>
 
-<script>
+<script lang="ts">
 import SideMenu from '@/components/SideMenu.vue'
+import { AppState } from './types'
 
 export default {
   name: 'app',
   components: {
     SideMenu
+  },
+  mounted () {
+    // ;(this.$store.state as AppState).client!.connect().then(() => {
+    //   // console.log('connected')
+    // })
   }
 }
 </script>
